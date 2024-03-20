@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<h1> KLUE Relation Extraction </h1> 
+<h1> KLUE Topic Classification </h1> 
 
 ![Static Badge](https://img.shields.io/badge/NAVER-green?style=flat-square&logo=naver)
 ![Static Badge](https://img.shields.io/badge/Boostcamp-AI%20Tech-blue?style=flat-square)
